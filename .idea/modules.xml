@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SKAntiBot.iml" filepath="$PROJECT_DIR$/SKAntiBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SKAntiBot.iml" filepath="$PROJECT_DIR$/.idea/SKAntiBot.iml" />
     </modules>
   </component>
 </project>
